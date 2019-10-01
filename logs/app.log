@@ -1,0 +1,115 @@
+20:22:44 INFO : MENU:
+20:22:44 INFO :  1 - Print fields in the class that were annotated
+20:22:44 INFO :  2 - Print annotation value
+20:22:44 INFO :  3 - print invoked methods with different parameters and types
+20:22:44 INFO :  4 - print value that was set into field not knowing its type
+20:22:44 INFO :  5 - show all information about that Class
+20:22:44 INFO :  Q - exit
+20:22:44 INFO : Please, select menu point.
+20:22:46 INFO : 
+name: Bella
+age: 7
+
+20:22:46 INFO : MENU:
+20:22:46 INFO :  1 - Print fields in the class that were annotated
+20:22:46 INFO :  2 - Print annotation value
+20:22:46 INFO :  3 - print invoked methods with different parameters and types
+20:22:46 INFO :  4 - print value that was set into field not knowing its type
+20:22:46 INFO :  5 - show all information about that Class
+20:22:46 INFO :  Q - exit
+20:22:46 INFO : Please, select menu point.
+20:22:50 INFO : 
+enter name age and breed
+20:23:12 INFO : MENU:
+20:23:12 INFO :  1 - Print fields in the class that were annotated
+20:23:12 INFO :  2 - Print annotation value
+20:23:12 INFO :  3 - print invoked methods with different parameters and types
+20:23:12 INFO :  4 - print value that was set into field not knowing its type
+20:23:12 INFO :  5 - show all information about that Class
+20:23:12 INFO :  Q - exit
+20:23:12 INFO : Please, select menu point.
+20:23:15 INFO : 
+enter name age and breed
+20:28:18 INFO : MENU:
+20:28:18 INFO :  1 - Print fields in the class that were annotated
+20:28:18 INFO :  2 - Print annotation value
+20:28:18 INFO :  3 - print invoked methods with different parameters and types
+20:28:18 INFO :  4 - print value that was set into field not knowing its type
+20:28:18 INFO :  5 - show all information about that Class
+20:28:18 INFO :  Q - exit
+20:28:18 INFO : Please, select menu point.
+20:28:22 INFO : 
+enter name age and breed
+20:28:34 INFO : object until setting new value: Animal{name='dodik', age=10, breed='asd'}
+object after setting new value: Animal{name='dodik', age=10, breed='didk'}
+20:28:34 INFO : MENU:
+20:28:34 INFO :  1 - Print fields in the class that were annotated
+20:28:34 INFO :  2 - Print annotation value
+20:28:34 INFO :  3 - print invoked methods with different parameters and types
+20:28:34 INFO :  4 - print value that was set into field not knowing its type
+20:28:34 INFO :  5 - show all information about that Class
+20:28:34 INFO :  Q - exit
+20:28:34 INFO : Please, select menu point.
+20:28:40 INFO : 
+enter name age and breed
+20:30:25 INFO : MENU:
+20:30:25 INFO :  1 - Print fields in the class that were annotated
+20:30:25 INFO :  2 - Print annotation value
+20:30:25 INFO :  3 - print invoked methods with different parameters and types
+20:30:25 INFO :  4 - print value that was set into field not knowing its type
+20:30:25 INFO :  5 - show all information about that Class
+20:30:25 INFO :  Q - exit
+20:30:25 INFO : Please, select menu point.
+20:30:31 INFO : 
+enter name age and breed
+20:30:40 INFO : object until setting new value: Animal{name='dodik', age=10, breed='barsik'}
+object after setting new value: Animal{name='dodik', age=20, breed='barsik'}
+20:30:40 INFO : MENU:
+20:30:40 INFO :  1 - Print fields in the class that were annotated
+20:30:40 INFO :  2 - Print annotation value
+20:30:40 INFO :  3 - print invoked methods with different parameters and types
+20:30:40 INFO :  4 - print value that was set into field not knowing its type
+20:30:40 INFO :  5 - show all information about that Class
+20:30:40 INFO :  Q - exit
+20:30:40 INFO : Please, select menu point.
+20:30:51 INFO : MENU:
+20:30:51 INFO :  1 - Print fields in the class that were annotated
+20:30:51 INFO :  2 - Print annotation value
+20:30:51 INFO :  3 - print invoked methods with different parameters and types
+20:30:51 INFO :  4 - print value that was set into field not knowing its type
+20:30:51 INFO :  5 - show all information about that Class
+20:30:51 INFO :  Q - exit
+20:30:51 INFO : Please, select menu point.
+20:30:54 INFO : 
+enter name age and breed
+20:31:17 INFO : object until setting new value: Animal{name='dodik', age=10, breed='barsik'}
+object after setting new value: Animal{name='dodik', age=20, breed='barsik'}
+20:31:17 INFO : MENU:
+20:31:17 INFO :  1 - Print fields in the class that were annotated
+20:31:17 INFO :  2 - Print annotation value
+20:31:17 INFO :  3 - print invoked methods with different parameters and types
+20:31:17 INFO :  4 - print value that was set into field not knowing its type
+20:31:17 INFO :  5 - show all information about that Class
+20:31:17 INFO :  Q - exit
+20:31:17 INFO : Please, select menu point.
+20:32:49 INFO : MENU:
+20:32:49 INFO :  1 - Print fields in the class that were annotated
+20:32:49 INFO :  2 - Print annotation value
+20:32:49 INFO :  3 - print invoked methods with different parameters and types
+20:32:49 INFO :  4 - print value that was set into field not knowing its type
+20:32:49 INFO :  5 - show all information about that Class
+20:32:49 INFO :  Q - exit
+20:32:49 INFO : Please, select menu point.
+20:32:52 INFO : 
+enter name age and breed
+20:33:00 INFO : object until setting new value: Animal{name='ad', age=10, breed='asd'}
+object after setting new value: Animal{name='ad', age=50, breed='asd'}
+20:33:00 INFO : MENU:
+20:33:00 INFO :  1 - Print fields in the class that were annotated
+20:33:00 INFO :  2 - Print annotation value
+20:33:00 INFO :  3 - print invoked methods with different parameters and types
+20:33:00 INFO :  4 - print value that was set into field not knowing its type
+20:33:00 INFO :  5 - show all information about that Class
+20:33:00 INFO :  Q - exit
+20:33:00 INFO : Please, select menu point.
+20:33:04 INFO : bye-bye
